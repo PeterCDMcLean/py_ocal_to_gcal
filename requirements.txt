@@ -1,0 +1,4 @@
+gcsa==2.0.0
+icalendar==5.0.2
+pytz==2022.6
+pywin32==305
